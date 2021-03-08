@@ -2,8 +2,8 @@
 
 
 
-Eu sou Angolano apaixonado por tecnologia, sempre me propondo em melhorar meu conhecimento:
-Atualmente estou estudando no BootCamp
+- Eu sou Angolano apaixonado por tecnologia, sempre me propondo em melhorar meu conhecimento.
+- Atualmente estou estudando no BootCamp
 <a href="https://brazil.generation.org/"> Generation Brasil</a>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
