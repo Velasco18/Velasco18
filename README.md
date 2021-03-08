@@ -1,9 +1,10 @@
-### Hi there 👋
+### Saudações 👋
 
 
 
-Here are some ideas to get you started:
-
+Eu sou Angolano apaixonado por tecnologia, sempre me propondo em melhorar meu conhecimento:
+Atualmente estou estudando no BootCamp da Generation Brasil
+<a href:"https://brazil.generation.org/"> Generation</a>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
