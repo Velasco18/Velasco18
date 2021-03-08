@@ -10,4 +10,5 @@
 - :dart: **Tenho fluência em Inglês**
 - ⚡ Eu gosto de decifrar puzzle.
 
-#Skills :pencil2:
+#Skills 
+<h2>Skills :pencil2: </h2>
