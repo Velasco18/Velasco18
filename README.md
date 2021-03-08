@@ -2,7 +2,7 @@
 
 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1f4.png?v8" 
-width=92></img>
+width = 92 px></img>
 - Eu sou Angolano apaixonado por tecnologia, sempre me propondo em melhorar meu conhecimento.
 - Atualmente estou estudando no BootCamp
 <a href="https://brazil.generation.org/"> Generation Brasil</a>
