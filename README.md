@@ -29,4 +29,6 @@
 <img src= "https://img.shields.io/badge/velasco.osvaldo@yahoo.com.br-6001D2?style=for-the-badge&logo=yahoo&logoColor=white"></img>
 <a href="https://www.linkedin.com/in/osvaldo-velasco/"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 </div>
+
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Velasco18&theme=blue-green"></img>
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Velasco18&theme=blue-green)
