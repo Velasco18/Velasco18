@@ -24,4 +24,10 @@
 <img src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>
 </div>
 <h2>Contact me :handshake: </h2>
+<div display ="inline-block">
+<img src= "https://img.shields.io/badge/(11)959676620-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img>
 <img src= ""></img>
+<img src= ""></img>
+<img src= ""></img>
+<img src= ""></img>
+</div>
