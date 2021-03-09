@@ -11,7 +11,7 @@
 - ⚡ Eu gosto de decifrar puzzle.
 
 <h2>Skills :pencil2: </h2>
-<div display ="inline-block">
+<div display ="inline-block" align= "center">
 <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
 <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
 <img src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
