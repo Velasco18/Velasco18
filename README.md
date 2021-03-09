@@ -25,7 +25,7 @@
 </div>
 <h2>Contact me :handshake: </h2>
 <div display ="inline-block">
-<img src= "https://img.shields.io/badge/(11)959676620-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img>
+<img src= "https://img.shields.io/badge/(11)95967-6620-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img>
 <img src= ""></img>
 <img src= ""></img>
 <img src= ""></img>
