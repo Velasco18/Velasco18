@@ -10,5 +10,5 @@
 - :dart: **Tenho fluência em Inglês**
 - ⚡ Eu gosto de decifrar puzzle.
 
-#Skills 
 <h2>Skills :pencil2: </h2>
+<img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
