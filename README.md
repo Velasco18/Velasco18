@@ -26,7 +26,8 @@
 <img src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>
 </div>
 <div align="center">
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Velasco18&theme=blue-green)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velasco18&theme=blue-green"></img>
+ 
  </div>
 <h2>Contact me :handshake: </h2>
 <div display ="inline-block" align="center">
