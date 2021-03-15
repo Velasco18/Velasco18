@@ -1,10 +1,11 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Velasco18)
 
-# Saudações 👋
+# Olá👋
 
 
 
-- :pushpin: Eu sou Angolano apaixonado por tecnologia, sempre me propondo em melhorar meu conhecimento  
+- :pushpin: Sou o Osvaldo Velasco, moro em São Bernardo do Campo/SP e estou estudando para me tornar um Desenvolvedor Java Full Stack sou 
+- apaixonado por tecnologia, sempre me propondo em melhorar meu conhecimento na área. 
 - :mortar_board: Cursando Sistemas de Informação pela
  <a href="https://metodista.br/"> Universidade Metodista de São Paulo</a>
 - :books: Atualmente estou estudando no BootCamp
