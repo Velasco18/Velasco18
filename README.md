@@ -4,7 +4,7 @@
 
 
 
-- :pushpin: Eu sou o Osvaldo Velasco, moro em São Bernardo do Campo/SP e estou estudando para me tornar um Desenvolvedor Java Full Stack sou
+- :pushpin: Eu sou o Osvaldo Velasco, moro em São Bernardo do Campo/SP e sou um Desenvolvedor Java Full Stack,
 - apaixonado por tecnologia, sempre me propondo em melhorar meu conhecimento na área. 
 - :mortar_board: Cursando Sistemas de Informação pela
  <a href="https://metodista.br/"> Universidade Metodista de São Paulo</a>
