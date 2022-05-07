@@ -6,9 +6,9 @@
 
 - :pushpin: Eu sou o Osvaldo Velasco, moro em São Bernardo do Campo/SP e sou um Desenvolvedor Java Full Stack,
 - apaixonado por tecnologia, sempre me propondo em melhorar meu conhecimento na área. 
-- :mortar_board: Cursando Sistemas de Informação pela
+- :mortar_board: Formado em Sistemas de Informação pela
  <a href="https://metodista.br/"> Universidade Metodista de São Paulo</a>
-- :books: Atualmente estou estudando no BootCamp
+- :books: Atualmente estou avançando em minha carreira como desenvolvedor Java Jr trabalhando na área
 <a href="https://brazil.generation.org/"> Generation Brasil</a>
 - :dart: **Tenho fluência em Inglês**
 - ⚡ Eu gosto de decifrar puzzle.
