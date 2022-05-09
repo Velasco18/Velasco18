@@ -8,7 +8,7 @@
 - apaixonado por tecnologia, sempre me propondo em melhorar meu conhecimento na área. 
 - :mortar_board: Sou formado em Sistemas de Informação pela
  <a href="https://metodista.br/"> Universidade Metodista de São Paulo</a>
-- :books: Atualmente estou avançando em minha carreira profissional como desenvolvedor Java após cursar o bootcamp de desenvolvedor Java pela
+- :books: Atualmente estou investindo pesado para avançar em minha carreira profissional como desenvolvedor Java após cursar o bootcamp de desenvolvedor pela
 <a href="https://brazil.generation.org/"> Generation Brasil</a>
 - :dart: **Tenho fluência em Inglês**
 - ⚡ Eu gosto de decifrar puzzle.
